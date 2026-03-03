@@ -1,0 +1,308 @@
+The quick brown fox jumps over the lazy dog.
+Typing practice builds speed and accuracy over time.
+Focus on rhythm and stay relaxed while typing.
+Small improvements every day add up quickly.
+Consistent practice beats occasional long sessions.
+Keep your eyes on the screen, not the keyboard.
+Clean code starts with careful attention to deta
+Good posture helps you type faster and longer.
+Relax your shoulders and keep your wrists straight.
+Measure progress by consistency, not perfection.
+Warm up with easy lines before harder phrases.
+Precision and patience are key to mastery.
+Great typing comes from deliberate practice.
+Stay focused and correct mistakes as you go.
+Speed is a byproduct of accurate repetition.
+Use all fingers for smoother, faster typing.
+Aim for clean input rather than rushed input.
+Build muscle memory with steady repetition.
+Slow is smooth, and smooth is fast.
+Your future self will thank you for practice today.
+Type with intent and let accuracy guide speed.
+Smooth typing comes from steady repetition.
+Short breaks keep your focus sharp and fresh.
+Consistency wins over rare marathon sessions.
+Keep a light touch on the keys.
+Reset your posture and relax your shoulders.
+Practice lines with varied lengths and rhythm.
+Make each keystroke deliberate and clean.
+Fewer mistakes mean faster real progress.
+Speed grows when accuracy is stable.
+Let your fingers return home after each word.
+Stay calm and keep your breathing steady.
+Read the line once, then type without rushing.
+Today is a good day for steady practice.
+Small wins stack up over weeks.
+Precision now saves time later.
+Train your hands, not just your eyes.
+Your best pace is smooth and steady.
+Short lines sharpen control and focus.
+Long lines build endurance and patience.
+Let errors go and keep moving forward.
+Practice the hard parts without tension.
+The goal is clean input, not perfect time.
+Good habits form with daily practice.
+Even five minutes a day matters.
+Smooth is fast, and fast is smooth.
+Listen for a steady, even key sound.
+Typing is a skill you can tune daily.
+Keep the rhythm; the speed will come.
+Let accuracy lead the way.
+Deliberate practice beats random effort.
+Trust your fingers and keep your eyes up.
+Use the same keyboard to build muscle memory.
+Time your practice and note the trend.
+Measure progress by consistency over days.
+Even pacing reduces mistakes.
+Aim for clean keystrokes, one by one.
+Typing well is a calm, repeatable motion.
+Do not chase speed at the cost of clarity.
+Stay focused and let the line flow.
+Start each round with a deep breath.
+Warm hands help smooth movement.
+Practice with different punctuation and symbols.
+Numbers and symbols need just as much care.
+Type with confidence, not force.
+Keep your hands close to the home row.
+Accuracy today builds speed tomorrow.
+Clean input is the fastest input.
+Small corrections beat full restarts.
+Commit to a steady, relaxed pace.
+Focus on the next word, not the last mistake.
+Maintain a gentle, even tempo.
+Trust the process and keep practicing.
+Clarity and control beat raw haste.
+Type the text as shown, including punctuation.
+Let rhythm guide your fingers.
+Keep your shoulders loose and your hands light.
+Practice often, progress steadily.
+Even a short session builds skill.
+Stay relaxed and keep a steady pace.
+Type with care and let speed follow.
+Quality input is the real speed.
+Avoid tension; it slows you down.
+Keep your eyes on the screen, not your hands.
+Aim for smooth, consistent strokes.
+Typing is a marathon of small, clean steps.
+Pack my box with five dozen liquor jugs.
+Crazy Fredrick bought many very exquisite opal jewels.
+Jived fox nymph grabs quick waltz.
+Five quacking zephyrs jolt my wax bed.
+The quick onyx goblin jumps over the lazy dwarf.
+Glib jocks quiz nymph to vex dwarf.
+Waltz, bad nymph, for quick jigs vex.
+Sphinx of black quartz, judge my vow.
+How vexingly quick daft zebras jump.
+Quick zephyrs blow, vexing daft Jim.
+We expect the quiz at 9:05 a.m.
+Meet me at 7:30 p.m. on 12/03/2026.
+The total is $42.75, not $43.00.
+Invoice #2026-0135 is due on 03-15-2026.
+Call me at 555-0199, extension 204.
+Reset the PIN to 8024 and confirm.
+Version 2.7.14 shipped on 2026-02-26.
+The file name is report_v2.3.1-final.txt.
+Use the path C:\temp\xq\logs\2026\ today.
+Add flags: -x -q -v --dry-run.
+Run: python typist.py --rounds=3 --seed=42.
+SQL: SELECT x, q FROM z WHERE id=7;
+JSON: {"x":7,"q":"zap","ok":true}
+Array: [3, 5, 8, 13, 21, 34]
+Brackets: () [] {} <> stay balanced.
+Quotes: "quick" and 'xylophone' are different.
+Type punctuation: , . ; : ! ? without pause.
+Mix symbols: @ # $ % ^ & * ( )
+Use math: 7*8=56 and 9/3=3.
+Negative values: -12, -0.75, and -100.
+Coordinates: x=12, y=-9, z=0.
+Ranges: 1..9, A-Z, and x-q.
+The sequence is q, x, z, j, k.
+Boxing wizards jump quickly and vex.
+Just keep typing: qxq xxq xqx qxx.
+Find the odd one: xqz, qxz, zqx, zqx.
+Press keys: q w e r t y u i o p.
+Lowercase and uppercase: QxZ mixed.
+Symbols and words: x-ray, q-tip, and z-scores.
+The quick fix requires six extra steps.
+Xylophones and quizzical zebras mix well.
+Quartz boxes make jive rhythms.
+Vexed quick brown fox jumps at 3 a.m.
+Add 15% tax, then subtract $2.50.
+Total (pre-tax) = 99.99; total (tax) = 114.99.
+Use commas, e.g., 1,000, 2,500, and 10,000.
+Time stamps: 00:00, 12:34, 23:59.
+Fraction format: 1/2, 3/4, 5/8.
+Angles: 90deg, 180deg, 270deg, 360deg.
+The hex code is #0A1B2C.
+Octal: 0755, 0644, 0700.
+UUID: 9f1c2a3b-4d5e-6f70-8123-456789abcdef.
+Email: xq.zed+test@example.com
+https://example.com/qx?x=7&q=9
+Escape: \n \t \\ and \" are different.
+Key combos: Ctrl+X, Alt+Q, Shift+Z.
+Type this: {[(<qXx>)]}.
+Zip code: 90210, 10001, 33109.
+The receipt shows 4 items at $3.25 each.
+Add 6.25% and round to 2 decimals.
+Mix words and digits: q2x4z8.
+Quickly fix 6 extra bugs in v2.0.
+Exit code 0 means success; 1 means fail.
+Use the regex: ^[a-z0-9_]+$.
+The score is 97/100; the rank is #2.
+Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+supercalifragilisticexpialidocious
+I like clear skies and calm days.
+The sun is up and the air is cool.
+This is a short and easy line.
+Please type slowly and stay calm.
+We will try a simple practice line.
+Keep your hands light on the keys.
+This line is short and plain.
+You can do this with no stress.
+Stay relaxed and keep moving.
+We will take a slow, clear path.
+My hands are ready to type.
+The room is quiet and still.
+The rain is soft and light.
+The wind is mild and slow.
+We can type a few more lines.
+Keep a soft and steady touch.
+This is a calm and easy line.
+Practice makes each step smooth.
+The text is simple and clean.
+Time to type with care.
+Do not rush; just stay steady.
+Type each word with focus.
+The key is calm control.
+Small steps lead to big gains.
+Now try a longer easy line with no tricks.
+We will keep the words simple and clear.
+Antidisestablishmentarianism is a long word.
+Pseudopseudohypoparathyroidism is very long.
+Floccinaucinihilipilification tests patience.
+Hippopotomonstrosesquipedaliophobia is ironic.
+Incomprehensibilities can slow you down.
+Electroencephalographically is a mouthful.
+Thigmotropism and thermochromism are tricky.
+Counterrevolutionaries marched at dawn.
+Mischaracterization leads to confusion.
+Uncharacteristically, the queue was quick.
+Phenomenon becomes phenomena in plural.
+Onomatopoeia echoes in the hall.
+Sesquipedalian prose feels heavy.
+Hyperbolically speaking, that is huge.
+Microarchitecture affects performance.
+Disproportionately large results appeared.
+Irreconcilable differences remain.
+Inconsequential details add clutter.
+Interdisciplinary teams collaborate well.
+Internationalization is shortened to i18n.
+Localization is shortened to l10n.
+Photosynthesis powers most life.
+Metamorphosis changes shape over time.
+Quizzical expressions confuse some people.
+Xylophonist quietly quit the choir.
+Zoologically speaking, zebras vary.
+Oxidation and reduction go together.
+Subcutaneous injection is common in labs.
+honey never spoils in a sealed jar.
+octopus has 3 hearts and 9 brains.
+Venus spins backward vs. most planets.
+a day on Mercury is 176 Earth days.
+koalas sleep about 18 hours per day.
+bananas are berries; strawberries are not.
+the Eiffel Tower can grow 15 cm in heat.
+the Pacific is wider than the Moon.
+sharks existed before trees.
+ants can lift about 50x body weight.
+the human body has 206 bones.
+the brain uses about 20% of energy.
+a group of crows is called a murder.
+a bolt of lightning can be 5 km long.
+a cheetah can sprint near 100 km/h.
+the Moon drifts away at 3.8 cm/year.
+1 teaspoon of soil can hold 1e9 microbes.
+blue whales can reach 30 m in length.
+the Sun is about 4.6 billion years old.
+the Milky Way has 100+ billion stars.
+the speed of sound is about 343 m/s.
+Saturn could float in water, in theory.
+a golf ball has about 300 dimples.
+a human eye can see ~1e7 colors.
+the first email was sent in 1971.
+the first web page went live in 1991.
+the word "robot" came in 1920.
+DNA has 4 bases: A, C, G, T.
+a byte is 8 bits; 1 KB is 1024 bytes.
+the ISS orbits Earth about 16x per day.
+Mount Everest is 8,849 m tall.
+Mars has 2 moons: Phobos and Deimos.
+Jupiter has 4 large moons (Io, Europa, Ganymede, Callisto).
+12 inches make 1 foot; 3 feet make 1 yard.
+the 24-hour day is split into 1,440 minutes.
+a leap year adds 1 extra day: Feb 29.
+the alphabet has 26 letters; 5 are vowels.
+"FAQ" stands for Frequently Asked Questions.
+"ASCII" has 128 basic codes.
+"CPU" has cores; "RAM" has speed.
+2+2=4, yet 2^2=4 as well.
+the ratio 1:1 is the simplest case.
+3.14 is a short form of pi.
+a checksum like CRC-32 checks data.
+0-based index means the first item is #0.
+GPS needs at least 4 satellites.
+1 hour = 60 min; 1 min = 60 sec.
+https://example.com/path/to/page?x=7&y=9#top
+http://localhost:8080/api/v1/items?limit=50&offset=100
+https://sub.domain.co.jp/a-b_c/d~e?mode=fast&v=2.1
+https://example.org/search?q=quick+fox&sort=desc&page=3
+https://cdn.example.net/assets/app.min.css?v=20260302
+https://api.example.com/users/42/orders/7?status=paid
+https://git.example.com/org/repo.git?ref=main
+https://s.example.io:9443/login?next=%2Fdashboard
+https://example.com/a%20b/c%2Fd?x=1%2B2&y=3
+https://u:p@host.example.com:8443/path?q=a_b-c~d
+PW: qX7!nZ2@pL9#sD4$kM6&vR8
+PW: 9f!Q2@w#E4$r%T6^y&U8*I0
+PW: Az9!By8@Cx7#Dw6$Ev5%Fu4
+PW: xY1@zZ2#Qw3$Er4%Tt5^Yy6
+PW: G7!hJ8@kL9#zX0$Cv1%Bn2
+PW: 5u!V6@wX7#yZ8$Aa9%Bb0
+PW: pR1!tY2@uI3#oP4$La5%Zx6
+SHA1: 2fd4e1c67a2d28fced849ee1bb76e7391b93eb12
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+MD5: d41d8cd98f00b204e9800998ecf8427e
+MD5: 098f6bcd4621d373cade4e832627b4f6
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+SHA256: 9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+SHA256: 3a7bd3e2360a3d80d6d6d36d1c78db1f4b8e9a1b1b6a4d2a75f8b0f6f4f8e0f0
+BASE64: QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+BASE64: VGhpcyBpcyBhIHR5cGluZyB0ZXN0Lg==
+TOKEN: api_key=sk_test_51N9xA9bCDeFgHIjKlmN0pQRs
+TOKEN: bearer=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+HEX: 0xDEADBEEF 0xC0FFEE 0xBADF00D
+UUID: 123e4567-e89b-12d3-a456-426614174000
+UUID: 6f9619ff-8b86-d011-b42d-00cf4fc964ff
+UUID: f81d4fae-7dec-11d0-a765-00a0c91e6bf6
+IPv4: 192.168.0.1, 10.0.0.12, 172.16.5.240
+IPv4: 127.0.0.1, 169.254.1.10, 255.255.255.0
+IPv4: 203.0.113.10, 198.51.100.25, 192.0.2.99
+IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+IPv6: 2001:db8::1, fe80::1, ::1
+IPv6: 2606:4700:4700::1111, 2001:4860:4860::8888
+IPv6: fd00:1234:5678:9abc::1, fd00::2
+Order code 202603021530451234567890 must match the receipt.
+Tracking number 98765432101234567890 is still in transit.
+The vault key is 314159265358979323846264338327.
+The batch token 271828182845904523536028747135 is archived.
+Payment ref 40320198765432109876543210 is confirmed.
+1,250, 2,340, 3,560, 4,780, 5,910 for March.
+12,345, 23,456, 34,567, 45,678, 56,789 today.
+101, 202, 303, 404, 505, 606, 707.
+9,999, 8,888, 7,777, 6,666, 5,555.
+120,000, 240,000, 360,000, 480,000.
+3,015, 6,030, 9,045, 12,060, 15,075.
+18,500, 27,750, 36,900, 45,250.
+2,500, 5,000, 7,500, 10,000, 12,500.
+4,321, 5,432, 6,543, 7,654, 8,765.
+98,765, 87,654, 76,543, 65,432, 54,321.
